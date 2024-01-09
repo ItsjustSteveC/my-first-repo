@@ -1,30 +1,19 @@
-# This is a large heading
+# Steve Curtis
 
-## This is a smaller heading
+## Currently studying Cybersecurity
 
-And as **imagination** bodies forth,
-The forms of thing *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### List of my hobbies
+- Hiking
+- Camping
+- Reading
 
-- This is
-- an unordered
-- list
+### The car brands I currently work on are;
+1. Bentley
+2. Lamborghini
+3. Maserati
 
-1. This is
-2. an ordered
-3. list
+I have been studying **Cybersecurity** for *6 month* and I am thoroughly enjoying learning new skills
 
-Here is 'some code' in the middle of a sentence
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+The best way to get in touch with me is [on instagram](https://www.instagram.com/napolean_the_van).
 
 nano README.md 
